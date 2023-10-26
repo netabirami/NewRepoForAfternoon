@@ -1,0 +1,6 @@
+Name, Age, Phone Number, Email, Address
+John Doe, 30, +1234567890, john.doe@email.com, 123 Main St, City, Country
+Alice Smith, 25, +9876543210, alice.smith@email.com, 456 Elm St, Town, Country
+Bob Johnson, 35, +1122334455, bob.johnson@email.com, 789 Oak St, Village, Country
+Eve Brown, 28, +5544332211, eve.brown@email.com, 101 Pine St, Hamlet, Country
+
